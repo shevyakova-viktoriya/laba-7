@@ -1,0 +1,4 @@
+﻿  laba.7.cpp
+C:\Users\79023\Desktop\логика\laba.7\laba.7\laba.7.cpp(55,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\79023\Desktop\логика\laba.7\laba.7\laba.7.cpp(58,16): warning C4101: i: неиспользованная локальная переменная
+  laba.7.vcxproj -> C:\Users\79023\Desktop\логика\laba.7\x64\Debug\laba.7.exe
